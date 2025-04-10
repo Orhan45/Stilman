@@ -1,0 +1,39 @@
+
+STİLMAN
+
+
+Proje tanımı: Bu proje, erkeklere yönelik modern, şık ve kaliteli giyim ürünlerini sunan bir e-ticaret platformu oluşturmayı hedeflemektedir.
+Site, kullanıcı dostu tasarımı, geniş ürün yelpazesi ve güvenli ödeme altyapısı ile erkeklerin ihtiyaç duyduğu her türlü giyim ve aksesuarı kolayca
+bulabileceği bir alışveriş deneyimi sunmayı amaçlamaktadır.
+
+
+
+
+
+Proje kategorisi : alışveriş site vs.
+Referans uygulama: avva.com.tr
+Uygulama adresi:  
+Ekip adı: Kasabalı
+Proje ekibi: Orhan selman YALÇIN
+
+
+
+
+
+
+
+
+
+
+Kayıt Olma: Kullanıcılar, ad, ,adres, e-posta ve şifre ile hesap oluşturmalıdır. 
+Giriş Yap: Kullanıcılar, e-posta ve şifre ile giriş yapabilmelidir. 
+Çıkış Yap: Kullanıcılar, hesaplarından güvenli şekilde çıkış yapabilmelidir.
+Sepete Ekle ,Çıkart ;Ürünler sepete ekleyebilir ve çıkartılabilmelidir. 
+Favoriye Ekle,Çıkart :Beğenilen ürünler favori listesine eklenebilir çıkarılabilir.
+
+Ürün Arama: Kullanıcılar, anahtar kelime veya ürün adı ile arama yapabilmelidir.
+Filtreleme: Ürünler fiyat, kategori ve puan gibi kriterlere göre filtrelenebilmelidir.
+Yorum Yapma: Kullanıcılar, satın aldıkları ürünlere yorum ve puan verebilmelidir.
+
+Profili ve Sipariş Yönetimi: Kullanıcılar, önceki siparişlerini, sipariş durumlarını görüntüleyebilmelidir.  
+Ödeme: Ödeme adımında farklı ödeme yöntemleri (kredi kartı, kapıda ödeme vb.) desteklenmelidir.

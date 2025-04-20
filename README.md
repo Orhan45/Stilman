@@ -33,3 +33,8 @@ Bu proje ile kullanıcı dostu tasarım, geniş ürün yelpazesi ve güvenli öd
 
 - **Ekip Adı:** Kasabalı
 - **Proje Ekibi:** Orhan Selman YALÇIN
+
+[1. Gereksinim Analizi](Gereksinimler.md)  
+[2. Durum Diyagramı](StilmanDiyagram.svg)  
+[3. Durum Senaryoları](DurumSenaryoları1.md)  
+[4. Front-End](Front-End.md)  
